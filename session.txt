@@ -1,0 +1,6 @@
+T01,PYP101,Python_Programming,Saturday,9.00am,C-01-01
+T02,JAV102,Java_Programming,Sunday,9.00am,C-01-02
+T03,CPL103,C_Programming,Saturday,2.00pm,C-01-03
+T04,WEB104,Web_Development,Sunday,2.00pm,C-01-04
+T05,CSP105,C_Sharp_Programming,Monday,7.00pm,C-01-05
+S07,LCODE,lowCodeProgramming,25-June-2023,9:00,D0904
